@@ -1,4 +1,4 @@
-To start npm i
+To install npm module  npm i
 
 
 
