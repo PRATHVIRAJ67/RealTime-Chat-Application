@@ -1,4 +1,8 @@
+
+
 # Real-Time Chat Application
+
+**Hosted Link**: [https://real-timechatapp.vercel.app/](https://real-timechatapp.vercel.app/)
 
 ## Overview
 This project is a dynamic real-time chat application that provides users with a seamless messaging experience. The application offers secure user authentication, real-time messaging, group chat capabilities, and various user-friendly features such as message history, message deletion, and user blocking.
@@ -42,7 +46,7 @@ This project is a dynamic real-time chat application that provides users with a 
    Create a `.env` file in the `backend` directory and add the following:
    ```
    MONGODB_URI=<your_mongoDB_connection_string>
-  
+   JWT_SECRET=<your_jwt_secret_key>
    ```
 
 5. Run the application:
